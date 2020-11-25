@@ -1,1 +1,1 @@
-# contracts
+# Nice Cash project smartcontracts for Ethereum
